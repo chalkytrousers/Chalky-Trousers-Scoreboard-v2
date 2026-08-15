@@ -1,0 +1,9 @@
+{
+  "name": "Chalky Trousers Scoreboard",
+  "short_name": "CT Scoreboard",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#050507",
+  "theme_color": "#050507"
+}
